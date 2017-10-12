@@ -1,0 +1,11 @@
+[package]
+name = "sputnikvm-callback"
+version = "0.1.0"
+license = "Apache-2.0"
+authors = ["Wei Tang <hi@that.world>"]
+description = "Callback wrapper for SputnikVM."
+repository = "https://github.com/ethereumproject/sputnikvm-callback"
+
+[dependencies]
+sputnikvm = "0.7.7"
+etcommon-bigint = "0.2.7"
