@@ -8,7 +8,9 @@ This callback wrapper allows you to invoke the SputnikVM library using
 a callback-like style instead of the RequireError style.
 
 Note that however, the RequireError style is more flexible and works
-better when doing concurrent programming.
+better when doing concurrent programming. So this is a SputnikVM
+[Contrib
+Project](https://github.com/ethereumproject/sputnikvm/wiki/Contrib-Projects).
 
 ## Get Started
 
